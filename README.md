@@ -1,6 +1,6 @@
 # Publications
 
-This repository is to hold data, code, and outputs for my publications.
+This repository is to house data, code, and outputs for publications authored/co-authored by Louis M. Penrod.
 
 ------------------------------------------------------------------------
 
